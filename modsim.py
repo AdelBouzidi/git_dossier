@@ -3,7 +3,7 @@ Code from Modeling and Simulation in Python.
 
 Copyright 2020 Allen Downey
 
-MIT License: https://opensource.org/licenses/MIT
+MIT License: https://opensource.org/licenses/MITaaaa
 """
 
 import logging
